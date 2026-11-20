@@ -6,7 +6,7 @@
 
 **Description.**
 
-[![License](https://img.shields.io/github/license/weiwei-hacking/Example?style=flat-square&color=blue)](LICENSE)
+[![License](https://img.shields.io/github/license/weiwei-hacking/Example?style=flat-square)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/weiwei-hacking/Example)](https://github.com/weiwei-hacking/Example/releases)
 [![Discord](https://img.shields.io/discord/1532180421260087491?logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/ycwdzMARP4)
 
