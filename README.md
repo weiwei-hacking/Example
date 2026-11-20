@@ -34,6 +34,6 @@ This is a template, as the name suggests it is... Template.
 
 Template needs **system & software**.
 
-1. Download `Template-<version>.xxx` from [Releases](https://github.com/weiwei-hacking/Example/releases/latest)
-2. And
-3. Done
+1. Download `Template-<version>.xxx` from [Releases](https://github.com/weiwei-hacking/Example/releases/latest).
+2. And.
+3. Done.
